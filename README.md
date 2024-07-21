@@ -12,7 +12,7 @@ System Information Grabber
 
 Clipboard Grabber
 
-Screenshot
+Screenshoter
 
 Registry Modification
 
@@ -25,4 +25,6 @@ Anti VM
 Anti Sandbox
 
 Configure and Automate Tasks
+
+Stand Alone 
 
