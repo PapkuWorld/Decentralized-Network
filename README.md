@@ -1,5 +1,10 @@
 This software is intended for educational purposes only. It should never be used on real systems or for any malicious activities.
 
+Builder CLI on Linux 
+Builder CLI / GUI on Windows
+
+Works on Windows Mac Linux
+
 Presistance 
 
 Exfiltration Options
